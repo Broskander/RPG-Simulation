@@ -1,8 +1,8 @@
 import java.util.Random;
-import asg6sp23.Character;
-import asg6sp23.Warrior;
-import asg6sp23.Mage;
-import asg6sp23.Druid;
+import <insert package>.Character;
+import <insert package>.Warrior;
+import <insert package>.Mage;
+import <insert package>.Druid;
 
 
 public class GameDriver {
